@@ -1,0 +1,7 @@
+name: Particles
+version: ${project.version}
+main: me.satvik.particles.Particles
+api-version: 1.18
+commands:
+  spiral:
+    description: spiral woo
